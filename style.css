@@ -1,4 +1,18 @@
-body { background-color:  #f4f4f4 ; }
+body {
+     background-color: #f4f4f4 ;
+     }
+
 p{
     color: #000;
-    line-height: 1,5;}
+    line-height: 1,5;
+}
+
+a {
+    color: #000;
+    font-style: none;
+}
+
+a:hover {
+    color:red;
+}
+
