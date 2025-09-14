@@ -16,3 +16,16 @@ a:hover {
     color:red;
 }
 
+h1 {
+     color: blue;
+     text-align: center;
+}
+
+h2 {
+    color:darkgreen
+    margin-bottom 10px;
+}
+
+h3 {
+    font-style: italic;
+}
