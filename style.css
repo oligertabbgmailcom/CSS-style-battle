@@ -29,3 +29,11 @@ h2 {
 h3 {
     font-style: italic;
 }
+
+ul, ol { 
+    border: 1px solid #ccc
+}
+
+img {
+    border: 1px solid black;
+}
